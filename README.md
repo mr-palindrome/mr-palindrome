@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nayan - aka Mr. Palindrome</h1>
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nayan - aka Mr. Palindrome</h1>
 <img align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1634121321703.png" height="300" width="300">
 
 
