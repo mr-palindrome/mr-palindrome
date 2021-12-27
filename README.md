@@ -1,6 +1,7 @@
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 , I'm Nayan - aka Mr. Palindrome   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
-<img align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1634121321703.png" height="300" width="300">
+<!-- <img align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1634121321703.png" height="300" width="300"> -->
+<img align="right" src="myself.gif" height="260px">
 
 
 ![](https://komarev.com/ghpvc/?username=mr-palindrome&color=green)
@@ -10,7 +11,7 @@
 - 🌱 I’m currently learning everything :)
 - 🥅 2021 Goal: Contribute more to Open Source projects
 - 💬 Reach me through [LinkedIn](https://www.linkedin.com/in/mr-palindrome/)
-- ⚡ Fun fact: I love to play mobile games ;)
+- ⚡ Fun fact: I love to play Minecraft ;)
 
 ### Connect with me:
 
@@ -37,11 +38,12 @@
 
 
 ## My Github Stats
-
+<p align="center">
   <br/>
     <a href="https://github.com/mr-palindrome/github-readme-stats"><img alt="mr-palindrome's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mr-palindrome&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="mr-palindrome's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-palindrome&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
+</p>
 <p align="center">
     <a href="https://github.com/mr-palindrome/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="mr-palindrome's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-palindrome&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
