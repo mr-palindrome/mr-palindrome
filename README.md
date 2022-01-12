@@ -1,5 +1,10 @@
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 , I'm Nayan - aka Mr. Palindrome   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-end%20web%20developer;Always%20learning%20something%20new&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
+
 <!-- <img align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1634121321703.png" height="300" width="300"> -->
 <img align="right" src="myself.gif" height="260px">
 
@@ -49,9 +54,10 @@
 </p>
 <p align="center">
     <a href="https://github.com/mr-palindrome/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="mr-palindrome's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-palindrome&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img alt="mr-palindrome's streak" src="http://github-readme-streak-stats.herokuapp.com?user=mr-palindrome&theme=holi-theme&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
     </a>
 </p>
+
 
 <br/>
 <div align="center">
