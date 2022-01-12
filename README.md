@@ -33,11 +33,14 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
+
 
 <br />
 
 
-## My Github Stats
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:
+
 <p align="center">
   <br/>
     <a href="https://github.com/mr-palindrome/github-readme-stats"><img alt="mr-palindrome's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mr-palindrome&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
