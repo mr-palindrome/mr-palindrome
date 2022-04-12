@@ -14,8 +14,8 @@
 ### About Me
 - 🔭 I’m currently studying Computer Science Engineering
 - 🌱 I’m currently learning everything :)
-- 🥅 2021 Goal: Contribute more to Open Source projects
-- 💬 Reach me through [LinkedIn](https://www.linkedin.com/in/mr-palindrome/)
+- 🥅 2022 Goal: Contribute more to Open Source projects and gain some industry experience ☺
+- 💬 Reach me through [LinkedIn](https://www.linkedin.com/in/mr-palindrome/) and [Twitter](https://twitter.com/Mr__palindrome/)
 - ⚡ Fun fact: I love to play Minecraft ;)
 
 ### Connect with me:
