@@ -1,19 +1,23 @@
 <h1 align="center">Hey there, I'm Nayan - aka Mr. Palindrome   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-end%20developer;Always%20learning%20something%20new&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-end%20developer;Open%20Source%20Enthusiast;Community%20Freak;Always%20learning%20something%20new&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-<!-- <img align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1634121321703.png" height="300" width="300"> -->
+
 <img align="right" src="myself.gif" height="260px">
 
 
 ![](https://komarev.com/ghpvc/?username=mr-palindrome&color=green)
 
 ### About Me
-- 🔭 I’m currently studying Computer Science Engineering
-- 🌱 I’m currently learning everything :)
-- 🥅 2022 Goal: Contribute more to Open Source projects and gain some industry experience ☺
+- 💻 Working as Backend Developer Intern at Solytics Partners
+- 🔭 Currently studying Computer Science Engineering
+- 🔭 Contributor in an Open Source Contribution Program(LGM-SoC'21)
+- 🔭 Contributor in an Open Source Contribution Program(Hactoberfest'21)
+- 🔭 Contributor in an Open Source Contribution Program(GSSoC'22)
+- 🌱 Currently learning everything :)
+- 🥅 2022 Goal: Contribute more to Open Source projects and give back to the development and open source communities and gain some industrial experience ☺
 - 💬 Reach me through [LinkedIn](https://www.linkedin.com/in/mr-palindrome/) and [Twitter](https://twitter.com/Mr__palindrome/)
 - ⚡ Fun fact: I love to play Minecraft ;)
 
