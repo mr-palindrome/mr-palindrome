@@ -23,25 +23,33 @@
 
 ### Connect with me:
 
-[![Twitter Badge](https://img.shields.io/badge/-Mr_palindrome-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/Mr__palindrome/)](https://twitter.com/Mr__palindrome/)
-[![Linkedin Badge](https://img.shields.io/badge/-Mr_palindrome-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mr-palindrome/)](https://www.linkedin.com/in/mr-palindrome/)
-[![Instagram Badge](https://img.shields.io/badge/-Mr_palindrome-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/mr.__palindrome/)](https://instagram.com/mr.__palindrome)
+[![Twitter Badge](https://img.shields.io/badge/Mr_palindrome-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Mr__palindrome/)
+[![Linkedin Badge](https://img.shields.io/badge/Mr_palindrome-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-palindrome/)
+[![Instagram Badge](https://img.shields.io/badge/Mr_palindrome-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mr.__palindrome)
 
 
 ### Languages and Tools I know:
 
-  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
-  ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
-  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-  ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
 <br />
