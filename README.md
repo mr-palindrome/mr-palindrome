@@ -8,7 +8,7 @@
 <img align="right" src="myself.gif" height="260px">
 
 
-![](https://komarev.com/ghpvc/?username=mr-palindrome&color=green)
+![](https://komarev.com/ghpvc/?username=mr-palindrome&color=orange)
 
 ### About Me
 - 💻 Working as Backend Developer Intern at Solytics Partners
