@@ -15,11 +15,12 @@
 - 🔭 Currently studying Computer Science Engineering
 - 🔭 Contributor in an Open Source Contribution Program(LGM-SoC'21)
 - 🔭 Contributor in an Open Source Contribution Program(Hactoberfest'21)
+- 🔭 Contributor in an Open Source Contribution Program(Hactoberfest'22)
 - 🔭 Contributor in an Open Source Contribution Program(GSSoC'22)
 - 🌱 Currently learning everything :)
-- 🥅 2022 Goal: Contribute more to Open Source projects and give back to the development and open source communities and gain some industrial experience ☺
+- 🥅 2023 Goal: Contribute more to Open Source projects and give back to the development and open source communities and practice more DSA ☺
 - 💬 Reach me through [LinkedIn](https://www.linkedin.com/in/mr-palindrome/) and [Twitter](https://twitter.com/Mr__palindrome/)
-- ⚡ Fun fact: I love to play Minecraft ;)
+- ⚡ Fun fact: I love to play Minecraft and Pokémon Go ;)
 
 ### Connect with me:
 
