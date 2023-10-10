@@ -26,7 +26,6 @@
 
 [![Twitter Badge](https://img.shields.io/badge/Mr_palindrome-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Mr__palindrome/)
 [![Linkedin Badge](https://img.shields.io/badge/Mr_palindrome-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-palindrome/)
-[![Instagram Badge](https://img.shields.io/badge/Mr_palindrome-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mr.__palindrome)
 
 
 ### Languages and Tools I know:
