@@ -5,9 +5,6 @@
 </p>
 
 
-<img align="right" src="myself.gif" height="260px">
-
-
 ![](https://komarev.com/ghpvc/?username=mr-palindrome&color=orange)
 
 ### About Me
