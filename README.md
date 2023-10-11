@@ -1,11 +1,10 @@
 <h1 align="center">Hey there, I'm Nayan - aka Mr. Palindrome   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-end%20developer;Open%20Source%20Enthusiast;Community%20Freak;Always%20learning%20something%20new&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-
-![](https://komarev.com/ghpvc/?username=mr-palindrome&color=orange)
 
 ### About Me
 - 💻 Working as Backend Developer Intern at Solytics Partners
@@ -58,13 +57,9 @@
 <br />
 
 ### My creation:
-<p align="center">
-  <br>
-  
+
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr-palindrome&repo=CoverCraft&layout=compact&theme=react&bg_color=0D1117)](https://github.com/mr-palindrome/CoverCraft)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr-palindrome&repo=Pokedex_Bot&layout=compact&theme=react&bg_color=0D1117)](https://github.com/mr-palindrome/Pokedex_Bot)
-  <br>
-</p>
 
 ### Support Me!
 <a href="https://www.buymeacoffee.com/mrpalindrome" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
