@@ -9,12 +9,13 @@
 ### About Me
 - 💻 Working as a Software Development Engineer at PAIM
 - 💻 Worked as Backend Developer Intern at Solytics Partners
-- 🔭 Currently studying Computer Science Engineering
-- 🔭 Contributor in an Open Source Contribution Program(LGM-SoC'21)
-- 🔭 Contributor in an Open Source Contribution Program(Hactoberfest'21)
-- 🔭 Contributor in an Open Source Contribution Program(Hactoberfest'22)
-- 🔭 Contributor in an Open Source Contribution Program(GSSoC'22)
-- 🔭 Contributor in an Open Source Contribution Program(Hactoberfest'23)
+- 💻 Contributer at Novu Co
+- 🔭 Computer Science Engineering Grad
+- 🔭 Contributed in LGM-SoC'21
+- 🔭 Contributed in Hactoberfest'21
+- 🔭 Contributed in Hactoberfest'22
+- 🔭 Contributed in GSSoC'22
+- 🔭 Contributed in Hactoberfest'23
 - 💬 Reach me through [LinkedIn](https://www.linkedin.com/in/mr-palindrome/) and [Twitter](https://twitter.com/Mr__palindrome/)
 - ⚡ Fun fact: I love to play Minecraft and Pokémon Go ;)
 
