@@ -7,7 +7,7 @@
 
 
 ### About Me
-- 💻 Working as a Software Development Engineer at PAIM
+- 💻 Working as a AI Engineer at PAIM
 - 💻 Worked as Backend Developer Intern at Solytics Partners
 - 💻 Contributer at Novu Co
 - 🔭 Computer Science Engineering Grad
